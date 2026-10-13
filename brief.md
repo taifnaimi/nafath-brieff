@@ -25,6 +25,9 @@ Source: https://developer.android.com/topic/architecture/data-layer/offline-firs
 Source: https://www.itu.int/rec/T-REC-Y.3112/en
 
 ## Cybersecurity
+Incident response is the process an organization follows to manage cybersecurity incidents and reduce their impact. Key activities include preparing response plans, detecting and analyzing suspicious events, containing threats, removing their causes, and recovering affected systems. After an incident, teams should review what happened and improve their procedures. For a 5G service supporting emergency responders, a well-prepared response helps limit disruption, protect sensitive information, and restore critical communications as safely and quickly as possible.
+
+Source: https://csrc.nist.gov/projects/incident-response
 
 ## Data
 
