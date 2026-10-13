@@ -15,6 +15,9 @@ Overfitting occurs when a machine learning model learns the training data too cl
 Source: https://scikit-learn.org/stable/modules/cross_validation.html
 
 ## Mobile
+An offline-capable mobile app should allow users to access locally stored data when internet connectivity is unavailable. Any changes made offline can be saved on the device and placed in a queue for synchronization when the connection returns. The app should handle synchronization failures and resolve conflicts when local and server data differ. For emergency responders, this approach helps preserve important information during network outages and reduces the risk of losing updates before they reach the central system.
+
+Source: https://developer.android.com/topic/architecture/data-layer/offline-first
 
 ## Networking
 
