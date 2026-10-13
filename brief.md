@@ -30,6 +30,9 @@ Incident response is the process an organization follows to manage cybersecurity
 Source: https://csrc.nist.gov/projects/incident-response
 
 ## Data
+A star schema organizes analytical data around a central fact table linked directly to dimension tables. For daily regional 5G usage reports, the fact table could store measures such as data volume, while dimensions describe the region, date, and service type. A snowflake schema normalizes dimension data into additional related tables, which can reduce redundancy but may require more joins. A star schema is often a practical choice for straightforward reporting because its structure is simpler for analysts to understand and query.
+
+Source: https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
 
 ## Misconception in My Track
 
