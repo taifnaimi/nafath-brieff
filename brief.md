@@ -20,6 +20,9 @@ An offline-capable mobile app should allow users to access locally stored data w
 Source: https://developer.android.com/topic/architecture/data-layer/offline-first
 
 ## Networking
+5G network slicing allows an operator to create multiple virtual networks on shared physical infrastructure, each configured for different service requirements. For emergency response teams, a dedicated slice can be designed to support critical communications with appropriate quality-of-service targets, capacity, and reliability. This can help separate emergency traffic from ordinary consumer traffic during periods of congestion. However, slicing alone cannot guarantee uninterrupted service; effective resource management, security, monitoring, and resilient network design are also necessary.
+
+Source: https://www.itu.int/rec/T-REC-Y.3112/en
 
 ## Cybersecurity
 
