@@ -10,6 +10,9 @@ HTTP safe methods, such as GET, are intended to retrieve information without cha
 Source: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods
 
 ## AI
+Overfitting occurs when a machine learning model learns the training data too closely, including noise and details that do not generalize to new data. As a result, it may perform well on training examples but poorly on unseen data. Cross-validation helps identify this problem by training and evaluating the model on different data splits. If performance varies greatly across splits or is much worse on validation data than on training data, overfitting may be a concern. This evaluation helps estimate how well the model generalizes.
+
+Source: https://scikit-learn.org/stable/modules/cross_validation.html
 
 ## Mobile
 
